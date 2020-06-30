@@ -24,6 +24,24 @@
   color: white;
 }
 
+.menuItemIcon{
+  padding-right: 10px;
+}
+
+.menuItem{
+  font-size: 0.85rem !important; 
+}
+
+#onMenuItem{
+  font-size: 0.85rem !important;
+  color:'green' !important;
+}
+
+#offMenuItem{
+  font-size: 0.85rem !important;
+  color:'red' !important;
+}
+
 .App-link {
   color: #61dafb;
 }
