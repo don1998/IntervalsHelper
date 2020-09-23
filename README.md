@@ -20,4 +20,4 @@ Your app is ready to be deployed!
 ### Adding the extension to Google Chrome
 
 Open the google chrome settings dropdown.
-![Instructions Step 1 Picture](InstructionsStep1.png)
+<img src="InstructionsStep1.png" alt="Instructions Step 1 Picture" width="30%"/>
