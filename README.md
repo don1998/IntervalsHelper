@@ -19,4 +19,5 @@ Your app is ready to be deployed!
 
 ### Adding the extension to Google Chrome
 
-WIP
+Open the google chrome settings dropdown.
+![Instructions Step 1 Picture](InstructionsStep1.png)
